@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-gp4wg39y"",
-  ""goal"": ""CLI validator for user onboarding"",
-  ""language"": ""rust"",
-  ""template"": ""rust-cli""
+    "name":  "rndproj-gp4wg39y",
+    "goal":  "CLI validator for user onboarding",
+    "language":  "rust",
+    "template":  "rust-cli"
 }
